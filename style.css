@@ -1,0 +1,13 @@
+body{
+ background-color: rgb(243, 106, 152);
+color:black;
+display:flex;
+justify-content:center;
+align-items:center;
+height:700;
+margin:0;
+
+}
+button{background-color: aliceblue;
+
+}
